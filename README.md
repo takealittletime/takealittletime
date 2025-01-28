@@ -28,27 +28,23 @@
 
 <div style="display: flex; flex-direction: row; gap: 10px; justify-content: center; align-items: center;">
   
-  <!-- Gmail -->
-  <div style="overflow: hidden; border-radius: 10px; height: 28px">
-    <a href="mailto:chlalsrb118@gmail.com">
+ <a href="mailto:chlalsrb118@gmail.com">
       <img
         style="height: 28px;" 
-        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         alt="chlalsrb118@gmail.com"
       />
     </a>
-  </div>
 
   <!-- Velog -->
-  <div style="overflow: hidden; border-radius: 10px; height: 28px">
-    <a href="https://velog.io/@takealittletime">
-      <img
+
+<a href="https://velog.io/@takealittletime/">
+      <img 
         style="height: 28px;"
-        src="https://velog-readme-stats.vercel.app/api/badge?name=Blog"
-        alt="Velog's GitHub stats"
-      />
-    </a>
-  </div>
+        src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@takealittletime"
+        alt="https://velog.io/takealittletime"
+        />
+</a>
 
 </div>
 
