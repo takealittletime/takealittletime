@@ -13,7 +13,7 @@
 
 <div align="center">
 
-## 👨🏼‍💻 Introduction
+# 👨🏼‍💻 Introduction
 ### 능동적으로 **‘사고’** 하고, **‘구현’** 하는 **프론트엔드 개발자**, **최민규** 입니다.
 
 ✅ **새로운 기술**을 **탐구**하고 적극적으로 **도입**합니다.
@@ -26,23 +26,33 @@
 
 ### 📞 Personal Channel
 
-<div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
-  <!-- Gmail -->
-  <a href="mailto:chlalsrb118@gmail.com">
-    <img 
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="chlalsrb118@gmail.com"
-    />
-  </a>
+<div style="display: flex; flex-direction: row; gap: 10px; justify-content: center; align-items: center;">
   
+  <!-- Gmail -->
+  <div style="overflow: hidden; border-radius: 10px; height: 28px">
+    <a href="mailto:chlalsrb118@gmail.com">
+      <img
+        style="height: 28px;" 
+        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        alt="chlalsrb118@gmail.com"
+      />
+    </a>
+  </div>
+
   <!-- Velog -->
-  <a href="https://velog.io/@takealittletime">
-    <img
-      src="https://velog-readme-stats.vercel.app/api/badge?name=takealittletime"
-      alt="Velog's GitHub stats"
-    />
-  </a>
+  <div style="overflow: hidden; border-radius: 10px; height: 28px">
+    <a href="https://velog.io/@takealittletime">
+      <img
+        style="height: 28px;"
+        src="https://velog-readme-stats.vercel.app/api/badge?name=Blog"
+        alt="Velog's GitHub stats"
+      />
+    </a>
+  </div>
+
 </div>
+
+
 
 <br>
 
@@ -65,7 +75,7 @@
 <br>
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=takealittletime&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=takealittletime&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&letterSpacing=0.1px&duration=2000&pause=10000&color=FFFF00&center=true&vCenter=true&width=700&height=70&lines=Hello%F0%9F%96%90%F0%9F%8F%BC+Thank+you+for+comming!)](https://git.io/typing-svg)
 
