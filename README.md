@@ -13,27 +13,57 @@
 
 <div align="center">
 
-## 👨🏼‍💻Introduction
-능동적으로 **‘사고’** 하고, **‘구현’** 하는 **프론트엔드 개발자**, **최민규** 입니다.
+## 👨🏼‍💻 Introduction
+### 능동적으로 **‘사고’** 하고, **‘구현’** 하는 **프론트엔드 개발자**, **최민규** 입니다.
 
-### 🔗Personal Channel
+✅ **새로운 기술**을 **탐구**하고 적극적으로 **도입**합니다.
 
-<a href="chlalsrb118@gmail.com">
-<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt="chlalsrb118@gmail.com"/></a>
+✅ **사용자 경험**을 **최우선**으로 고려합니다.
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=takealittletime)](https://velog.io/@takealittletime)
+✅ **적극적으로 소통**하고, 프로젝트를 매끄럽게 이끌어 가는데 집중합니다.
+
+<br>
+
+### 📞 Personal Channel
+
+<div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
+  <!-- Gmail -->
+  <a href="mailto:chlalsrb118@gmail.com">
+    <img 
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="chlalsrb118@gmail.com"
+    />
+  </a>
+  
+  <!-- Velog -->
+  <a href="https://velog.io/@takealittletime">
+    <img
+      src="https://velog-readme-stats.vercel.app/api/badge?name=takealittletime"
+      alt="Velog's GitHub stats"
+    />
+  </a>
+</div>
+
+<br>
 
 
-### 🛠️Tech Stack🛠️
+### 🛠️ Tech Stacks
 
 <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" alt="next.js"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="javascript"/>
+
+<br>
+
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindCSS"/>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+
+
+<br>
+<br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=takealittletime&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
