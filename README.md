@@ -26,18 +26,15 @@
 
 ### 📞 Personal Channel
 
-<div style="display: flex; flex-direction: row; gap: 10px; justify-content: center; align-items: center;">
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
   
  <a href="mailto:chlalsrb118@gmail.com">
       <img
         style="height: 28px;" 
        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         alt="chlalsrb118@gmail.com"
-      />
-    </a>
-
-  <!-- Velog -->
-
+      /></a>
+&nbsp;
 <a href="https://velog.io/@takealittletime/">
       <img 
         style="height: 28px;"
