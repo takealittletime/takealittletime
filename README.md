@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome!🌱&desc=This%20is%20ChoiMinKyu's%20Github.&fontSize=70&descSize=35&animation=fadeIn&fontAlign=40&fontAlignY=33)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!🌱&desc=This%20is%20ChoiMinKyu's%20Github.&fontSize=50&descSize=25&animation=fadeIn&fontAlign=40&fontAlignY=26&descAlignY=48)
 
 </div>
 
