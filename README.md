@@ -35,13 +35,14 @@
         alt="chlalsrb118@gmail.com"
       /></a>
 &nbsp;
-<a href="https://velog.io/@takealittletime/">
-      <img 
-        style="height: 28px;"
-        src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@takealittletime"
-        alt="https://velog.io/takealittletime"
-        />
+<a href="https://velog.io/@takealittletime/" target="_blank" rel="noopener noreferrer">
+  <img 
+    style="height: 28px;"
+    src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@takealittletime"
+    alt="https://velog.io/takealittletime"
+  />
 </a>
+
 
 </div>
 
